@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Sling Launchpad Base
+Implementation-Version: 6.0.1-2.6.32
+Built-By: kpauls
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Sling Launchpad Base
+Implementation-Vendor-Id: org.apache.sling
+Implementation-Vendor: The Apache Software Foundation
+Main-Class: org.apache.sling.launchpad.app.Main
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_121
+Specification-Version: 6.0
+Implementation-URL: http://sling.apache.org/org.apache.sling.launchpad
+ .base
+
